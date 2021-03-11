@@ -58,10 +58,10 @@
                                 About me
                             </h2>
                             <p>
-                                Hi! my name is Aleksandar, tenacious programmer eager for new knowledge in web development industry. I love writing JavaScript and PHP while randomly switching channels on <a href="https://www.youtube.com/watch?v=BD_guK9b64k" target="_blank">spinnin' tv live</a>.
+                                Hi! My name is Aleksandar, a tenacious programmer eager for new knowledge in the web development industry. I love writing JavaScript and PHP while randomly switching channels on <a href="https://www.youtube.com/watch?v=BD_guK9b64k" target="_blank">spinnin' tv live</a>.
                             </p>
                             <p>
-                                When not working, I like to research for new, better and easier ways to implement my programming ideas, play basketball and enjoy life.
+                                When not working, I like to research into new, better and easier ways to implement my programming ideas, play basketball and enjoy life.
                             </p>
                         </div>
                         <div class="about-me-section about-me-section-img fade"><img src="https://via.placeholder.com/767x1024" alt="My image"></div>
