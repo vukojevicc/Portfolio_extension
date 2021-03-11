@@ -231,6 +231,7 @@ header .navigation a li{
     font-size: 27px;
     transition: transform .1s linear;
     display: inline-block;
+    padding: 0 20px;
 }
 .technologies-heading:hover{
     transform: skew(2deg, 1deg);
