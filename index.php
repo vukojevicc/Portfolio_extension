@@ -14,6 +14,7 @@
     <script>
         <?php require_once __DIR__ . '/js/main.js'; ?>
     </script>
+    <meta name="google-site-verification" content="XVzK6JWN8X5OITvEC-DCbvONA6Ow4aHn7ryB8Gfjz5k" />
 </head>
 <div class="overflow">
 
