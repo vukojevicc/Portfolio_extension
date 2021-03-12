@@ -56,7 +56,7 @@
                     <div class="about-me-grid">
                         <div class="about-me-section fade">
                             <h2>
-                                About me
+                                About mee
                             </h2>
                             <p>
                                 Hi! My name is Aleksandar, a tenacious programmer eager for new knowledge in the web development industry. I love writing JavaScript and PHP while randomly switching channels on <a href="https://www.youtube.com/watch?v=BD_guK9b64k" target="_blank">spinnin' tv live</a>.
