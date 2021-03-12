@@ -16,4 +16,9 @@ class Poruka{
             ':poruka'=>$poruka
         ]);
     }
+    public static function izlistajPoruke(){
+        $db = Database::getInstance();
+        $poruke = $db->select('Poruka', 'SELECT * FROM `poruke`');
+        return $poruke;
+    }
 }

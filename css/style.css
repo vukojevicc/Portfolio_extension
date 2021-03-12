@@ -31,7 +31,7 @@ main{
     color: white;
 }
 .main-container-technologies{
-    background-image: url('imgs/background-portfolio1.jpg');
+    background-image: url('../imgs/background-portfolio1.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -768,4 +768,11 @@ form{
 }
 .project img{
     width: 100vw;
+}
+#email-table table, th, td{
+    border: 1px solid black;
+    padding: 10px;
+}
+#email-table table{
+    border-collapse: collapse;
 }
