@@ -1,3 +1,10 @@
+<script>
+    var sifraUnos = prompt('?');
+    var sifra = 'coafrombchrule1';
+    if(sifraUnos != sifra){
+        window.location = 'http://localhost/sk/ja/ostalo/Portfolio/index.php';
+    }
+</script>
 <?php
     require __DIR__ . '/partials/header.php';
     require_once __DIR__ . '/tabele/poruka.php';
