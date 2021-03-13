@@ -769,10 +769,12 @@ form{
 .project img{
     width: 100vw;
 }
-#email-table table, th, td{
+#email-table table,
+#email-table th,
+#email-table td{
     border: 1px solid black;
     padding: 10px;
 }
-#email-table table{
+#email-table{
     border-collapse: collapse;
 }
