@@ -17,7 +17,7 @@
             <span class="social-title-text bottom-tooltip">Email</span>
         </li>
     </a>
-    <a href="#" target="_blank">
+    <a href="https://www.linkedin.com/in/aleksandar-v-b039b0209/" target="_blank">
         <li class="social-title">
             <i class="fab fa-linkedin-in fa-2x"></i>
             <span class="social-title-text bottom-tooltip" id="link-text">LinkedIn</span>

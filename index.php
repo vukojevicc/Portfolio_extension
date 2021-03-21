@@ -50,7 +50,7 @@
                                 When not working, I like to research into new, better and easier ways to implement my programming ideas, play basketball and enjoy life.
                             </p>
                         </div>
-                        <div class="about-me-section about-me-section-img fade"><img src="https://via.placeholder.com/767x1024" alt="My image"></div>
+                        <div class="about-me-section about-me-section-img fade"><img src="imgs/me2.png" alt="My image"></div>
                         <div class="about-me-section fade">
                             <?php include __DIR__ . '/partials/basic-info.php'; ?>
                         </div>
