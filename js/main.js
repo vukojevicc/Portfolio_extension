@@ -114,7 +114,7 @@ $(document).ready(function () {
             /* If the element is completely within bounds of the window, fade it in */
             if (objectBottom < windowBottom) { //object comes into view (scrolling down)
                 if ($(this).css("opacity") == 0) {
-                    $(this).fadeTo(700, 1);
+                    $(this).fadeTo(200, 1);
                 }
             }
         });
