@@ -232,6 +232,7 @@ header .navigation a li{
     transition: transform .1s linear;
     display: inline-block;
     padding: 0 20px;
+    padding-top: 15px;
 }
 .technologies-heading:hover{
     transform: skew(2deg, 1deg);
@@ -317,6 +318,11 @@ header .navigation a li{
 @media only screen and (min-width: 410px){
     .project img{
         width: 400px!important;
+    }
+}
+@media only screen and (max-width: 1130px){
+    .projects{
+        grid-template-columns: auto!important;
     }
 }
 .side-menu{
@@ -546,6 +552,10 @@ th{
 .projects{
     background-color: #f7f7f7;
     padding-bottom: 5vw;
+    display: grid;
+    grid-template-columns: auto auto;
+    max-width: var(--document-width);
+    margin: auto;
 }
 .contact{
     height: 1200px;

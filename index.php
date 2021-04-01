@@ -60,11 +60,12 @@ require __DIR__ . '/partials/header.php';
             <div class="languages">
                 <?php include __DIR__ . '/partials/languages.php'; ?>
             </div>
+            <div class="flex-heading"><div class="technologies-heading">some of my projects</div></div>
             <section class="projects" id="projects">
-                <div class="flex-heading"><div class="technologies-heading">some of my projects</div></div>
                 <a href="https://mihabodytec-batajnica.rs/" target="_blank" class="project fade"><img src="imgs/maciphonemiha.png" alt="project1"></a>
                 <a href="http://dubinskopranjezemun.com/" target="_blank" class="project fade"><img src="imgs/dubinskosve.png" alt="project2"></a>
                 <a href="http://airsoftforum.rs/" target="_blank" class="project fade"><img src="imgs/airsoft.png" alt="project3"></a>
+                <a href="https://stakecasinobalkan.com/" target="_blank" class="project fade"><img src="imgs/stakecasino.png" alt="project4"></a>
             </section>
             <footer class="contact" id="contact">
                 <div class="contact-heading-container">
