@@ -250,4 +250,8 @@ $(document).ready(function () {
             });
         }
     }
+
+    $('#forum_link').on('click', function(){
+        window.location = 'http://localhost/sk/ja/ostalo/Portfolio/forum/';
+    })
 });
