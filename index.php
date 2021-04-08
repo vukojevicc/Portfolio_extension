@@ -36,7 +36,7 @@ require __DIR__ . '/partials/header.php';
             <div class="main-container-technologies">
                 <div class="technologies" id="technologies">
                     <div class="flex-heading">
-                        <div class="technologies-heading">front end focused with <br>full stack experience</div>
+                        <h1 class="technologies-heading">front end focused with <br>full stack experience</h1>
                     </div>
                     <div class="about-me-grid">
                         <div class="about-me-section fade">

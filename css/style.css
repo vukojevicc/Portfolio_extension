@@ -788,3 +788,6 @@ form{
 #email-table{
     border-collapse: collapse;
 }
+h1{
+    font-weight: 400;
+}
