@@ -7,6 +7,3 @@
 <a href="#contact" class="anchor-scroll">
     <li>contact me</li>
 </a>
-<a href="" class="anchor-scroll forum_link">
-    <li>forum</li>
-</a>
