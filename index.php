@@ -22,7 +22,7 @@ require __DIR__ . '/partials/header.php';
                     </div>
                 </ul>
             </div>
-            <aside class="side-menu">
+            <aside class="side-menu"> q
                 <ul>
                     <?php
                     include __DIR__ . '/partials/main-menu.php';
