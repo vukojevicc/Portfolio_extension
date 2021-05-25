@@ -1,4 +1,10 @@
 $(document).ready(function () {
+
+    // setting up loading animation
+    window.onload = function(){
+        document.querySelector('.loader').style.opacity = '0';
+    }
+
     // sending message via AJAX ↓
     $('form').on('submit', function (event) {
         event.preventDefault();

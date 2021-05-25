@@ -26,6 +26,34 @@ main{
     position: relative;
     overflow: hidden;
 }
+.loader{
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-image: var(--theme-background);
+    z-index: 1000;
+    transition: opacity .2s;
+    opacity: 1;
+}
+.loader img{
+    top: 50vh;
+    left: 50vw;
+    position: relative;
+    width: 2rem;
+    transform: translate(-50%, -50%);
+    animation: logo_animation_rotation .8s ease-in-out infinite;
+    transform-origin:  top left;
+}
+@keyframes logo_animation_rotation {
+    0%{
+        transform: rotate(0) translate(-50%, -50%);
+    }
+    100%{
+        transform: rotate(720deg) translate(-50%, -50%);
+    }
+}
 ::selection{
     background-color: #01014b;
     color: white;
