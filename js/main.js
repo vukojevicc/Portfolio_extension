@@ -2,7 +2,7 @@ $(document).ready(function () {
 
     // setting up loading animation
     window.onload = function(){
-        document.querySelector('.loader').style.opacity = '0';
+        document.querySelector('.loader').classList.add('visible_class');
     }
 
     // sending message via AJAX ↓
