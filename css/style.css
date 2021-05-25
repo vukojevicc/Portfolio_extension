@@ -37,6 +37,10 @@ main{
     transition: opacity .2s;
     opacity: 1;
 }
+.visible_class{
+    opacity: 0;
+    visibility: hidden;
+}
 .loader img{
     top: 50vh;
     left: 50vw;
